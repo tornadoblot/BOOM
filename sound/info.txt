@@ -1,0 +1,7 @@
+bgm은 말그대로 bgm 
+메인화면에선 브금 없음
+
+buyfruit는 과일을 살때
+buyshop은 상점에서 업그레이드를 할 때
+dish는 접시를 터치했을때
+hamster는 햄스터가 등장했을때
